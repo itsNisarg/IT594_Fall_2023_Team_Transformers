@@ -7,4 +7,4 @@
 * Manjal Shah 202003037
 * Meet Kantesaria 202211018
 * Jay Joshi 202211079
-* Mohit Kareliya 202211080
+* Mohit Karelia 202211080
