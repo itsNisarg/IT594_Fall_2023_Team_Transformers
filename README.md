@@ -1,5 +1,4 @@
-# Word2Vec_assignment-1
-## Deep Neural NLP Assignment 1
+# Team - Transformers
 
 > Team Members
 
